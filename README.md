@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-<p>
-  <img src="./html.png" alt="HTML" width="40" height="40"/> 
-  <img src="./css.png" alt="CSS" width="40" height="40"/> 
-  <img src="./js.png" alt="JavaScript" width="40" height="40"/> 
-  <img src="./node.png" alt="Node.js" width="40" height="40"/> 
-  <img src="./express.png" alt="Express" width="40" height="40"/> 
-  <img src="./sql.png" alt="SQL" width="40" height="40"/> 
-  <img src="./mongo.png" alt="MongoDB" width="40" height="40"/> 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
 </p>
+
