@@ -11,3 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
 </p>
 
+I am a 2nd year Engineering Student  
+My Major is COMPUTER SCIENCE 🐦‍🔥
+
+
