@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Backend-🧠-00ffaa?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Database-💾-00bfff?style=for-the-badge&logoColor=white" />
 </p>
-
+ 
 ---
 
 ### FRONTEND
