@@ -24,13 +24,13 @@
     <div style="border:1px solid #666;padding:10px;margin-bottom:10px;border-radius:5px;">
         <h4 style="color:#f5f5f5;">✨ Frontend Skills</h4>
         <ul style="color:#ccc;">
-            <li>Responsive UI using HTML5 CSS3 Flexbox and Grid</li>
+            <li>Responsive UI using HTML5 CSS3 Animation Library and CSS3 Flexbox and Grid</li>
             <li>Interactive design using Vanilla JavaScript</li>
-            <li>DOM manipulation and basic animations</li>
+            <li>DOM manipulation and smooth animations</li>
         </ul>
     </div>
     <div style="border:1px solid #666;padding:10px;border-radius:5px;">
-        <p style="color:#ccc;">Currently improving advanced JS concepts and experimenting with small UI libraries.</p>
+        <p style="color:#ccc;">Currently improving JavaScript concepts Building Logical ProjectS and experimenting with small UI libraries</p>
     </div>
 </td>
 </tr>
