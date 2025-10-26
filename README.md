@@ -11,7 +11,7 @@
 
 ### 🚀 FRONTEND
 
-<div style="border:1px solid #777;border-radius:8px;padding:10px;background-color:#0d1117;">
+<div style="border:1px solid #777;border-radius:8px;padding:10px;background-color:#161b22;">
 
 <table>
 <tr>
