@@ -23,7 +23,7 @@
     <div style="border:1px solid #666;padding:10px;margin-bottom:10px;border-radius:5px;">
         <h4 style="color:#f5f5f5;">✨ Frontend Skills</h4>
         <ul style="color:#ccc;">
-            <li>Responsive UI using HTML5, CSS3, Flexbox, and Grid</li>
+            <li>Responsive UI using HTML5 CSS3 Flexbox and Grid</li>
             <li>Interactive design using Vanilla JavaScript</li>
             <li>DOM manipulation and basic animations</li>
         </ul>
@@ -54,12 +54,12 @@
         <h4 style="color:#f5f5f5;">🔧 Backend Skills</h4>
         <ul style="color:#ccc;">
             <li>Building REST APIs with Express.js</li>
-            <li>Authentication, routing, and error handling</li>
+            <li>Authentication routing and error handling</li>
             <li>Integration with SQL and NoSQL databases</li>
         </ul>
     </div>
     <div style="border:1px solid #666;padding:10px;border-radius:5px;">
-        <p style="color:#ccc;">Working on form validation, middleware, and advanced API patterns.</p>
+        <p style="color:#ccc;">Working on form validation middleware and advanced API patterns.</p>
     </div>
 </td>
 </tr>
@@ -100,8 +100,8 @@
 ---
 
 <p align="center" style="color:#ccc;">
-    <b>✨ Currently Building:</b> Full-stack apps with Node.js, Express, and MySQL<br>
-    <b>🎯 Goal:</b> Create scalable, fast, and elegant web applications
+    <b>✨ Currently Building:</b> Full-stack apps with Node.js Express and MySQL<br>
+    <b>🎯 Goal:</b> Create scalable fast and elegant web applications
 </p>
 
 ---
