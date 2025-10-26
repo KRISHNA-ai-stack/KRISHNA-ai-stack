@@ -29,9 +29,6 @@
             <li>DOM manipulation and smooth animations</li>
         </ul>
     </div>
-    <div style="padding:10px;">
-        <p style="color:#ccc;">Currently improving JavaScript concepts Building Logical ProjectS and experimenting with small UI libraries</p>
-    </div>
 </td>
 </tr>
 </table>
@@ -58,9 +55,6 @@
             <li>Authentication routing and error handling</li>
             <li>Integration with SQL and NoSQL databases</li>
         </ul>
-    </div>
-    <div style="padding:10px;">
-        <p style="color:#ccc;">Working on form validation middleware and advanced API patterns.</p>
     </div>
 </td>
 </tr>
@@ -89,9 +83,6 @@
             <li>Working with MongoDB for flexible data storage</li>
         </ul>
     </div>
-    <div style="padding:10px;">
-        <p style="color:#ccc;">Exploring database optimization and query performance tuning.</p>
-    </div>
 </td>
 </tr>
 </table>
@@ -101,8 +92,7 @@
 ---
 
 <p align="center" style="color:#ccc;">
-    <b>✨ Currently Building:</b> Full-stack apps with Node.js Express and MySQL<br>
-    <b>🎯 Goal:</b> Create scalable fast and elegant web applications
+    <b>🎯 Goal : )  </b> Create scalable fast and elegant web applications
 </p>
 
 ---
