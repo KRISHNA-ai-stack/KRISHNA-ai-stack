@@ -24,8 +24,8 @@
     <div style="padding:10px;margin-bottom:10px;">
         <h4 style="color:#f5f5f5;">✨ Frontend Skills</h4>
         <ul style="color:#ccc;">
-            <li>Responsive UI using HTML5 CSS3 Animation Library and CSS3 Flexbox and Grid</li>
-            <li>Interactive design using Vanilla JavaScript</li>
+            <li>Responsive UI using <b>HTML5</b> <b>CSS3</b> <b>Animation</b> Library and CSS3 Flexbox and Grid</li>
+            <li>Interactive design using Vanilla <b></b>JavaScript</li>
             <li>DOM manipulation and smooth animations</li>
         </ul>
     </div>
@@ -51,9 +51,9 @@
     <div style="padding:10px;margin-bottom:10px;">
         <h4 style="color:#f5f5f5;">🔧 Backend Skills</h4>
         <ul style="color:#ccc;">
-            <li>Building REST APIs with Express.js</li>
+            <li>Building <b>REST APIs</b> with <b>Express.JS</b></li>
             <li>Authentication routing and error handling</li>
-            <li>Integration with SQL and NoSQL databases</li>
+            <li>Integration with <b>SQL</b> and <b>NoSQL</b> databases</li>
         </ul>
     </div>
 </td>
@@ -80,7 +80,7 @@
         <ul style="color:#ccc;">
             <li>Relational data modeling using MySQL</li>
             <li>CRUD operations and schema design</li>
-            <li>Working with MongoDB for flexible data storage</li>
+            <li>Working with <b>MongoDB</b> for flexible data storage</li>
         </ul>
     </div>
 </td>
