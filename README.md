@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 FRONTEND
+### FRONTEND
 
 <div style="padding:10px;background-color:#161b22;">
 
@@ -22,7 +22,7 @@
 </td>
 <td>
     <div style="padding:10px;margin-bottom:10px;">
-        <h4 style="color:#f5f5f5;">✨ Frontend Skills</h4>
+        <h4 style="color:#f5f5f5;">🩷 Frontend Skills</h4>
         <ul style="color:#ccc;">
             <li>Responsive UI using <b>HTML5</b> <b>CSS3</b> <b>Animation</b> Library and CSS3 Flexbox and Grid</li>
             <li>Interactive design using Vanilla <b></b>JavaScript</li>
@@ -37,7 +37,7 @@
 
 ---
 
-### ⚙️ BACKEND
+### BACKEND
 
 <div style="padding:10px;background-color:#0d1117;">
 
@@ -49,7 +49,7 @@
 </td>
 <td>
     <div style="padding:10px;margin-bottom:10px;">
-        <h4 style="color:#f5f5f5;">🔧 Backend Skills</h4>
+        <h4 style="color:#f5f5f5;">🔴 Backend Skills</h4>
         <ul style="color:#ccc;">
             <li>Building <b>REST APIs</b> with <b>Express.JS</b></li>
             <li>Authentication routing and error handling</li>
@@ -64,7 +64,7 @@
 
 ---
 
-### 🗄️ DATABASE
+### DATABASE
 
 <div style="padding:10px;background-color:#0d1117;">
 
@@ -76,7 +76,7 @@
 </td>
 <td>
     <div style="padding:10px;margin-bottom:10px;">
-        <h4 style="color:#f5f5f5;">💾 Database Skills</h4>
+        <h4 style="color:#f5f5f5;">🟢 Database Skills</h4>
         <ul style="color:#ccc;">
             <li>Relational data modeling using MySQL</li>
             <li>CRUD operations and schema design</li>
