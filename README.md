@@ -11,7 +11,7 @@
 
 ### 🚀 FRONTEND
 
-<div style="border:1px solid #777;border-radius:8px;padding:10px;background-color:#161b22;">
+<div style="padding:10px;background-color:#161b22;">
 
 <table>
 <tr>
@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript"/>
 </td>
 <td>
-    <div style="border:1px solid #666;padding:10px;margin-bottom:10px;border-radius:5px;">
+    <div style="padding:10px;margin-bottom:10px;">
         <h4 style="color:#f5f5f5;">✨ Frontend Skills</h4>
         <ul style="color:#ccc;">
             <li>Responsive UI using HTML5 CSS3 Animation Library and CSS3 Flexbox and Grid</li>
@@ -29,7 +29,7 @@
             <li>DOM manipulation and smooth animations</li>
         </ul>
     </div>
-    <div style="border:1px solid #666;padding:10px;border-radius:5px;">
+    <div style="padding:10px;">
         <p style="color:#ccc;">Currently improving JavaScript concepts Building Logical ProjectS and experimenting with small UI libraries</p>
     </div>
 </td>
@@ -42,7 +42,7 @@
 
 ### ⚙️ BACKEND
 
-<div style="border:1px solid #777;border-radius:8px;padding:10px;background-color:#0d1117;">
+<div style="padding:10px;background-color:#0d1117;">
 
 <table>
 <tr>
@@ -51,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50px" alt="Express"/>
 </td>
 <td>
-    <div style="border:1px solid #666;padding:10px;margin-bottom:10px;border-radius:5px;">
+    <div style="padding:10px;margin-bottom:10px;">
         <h4 style="color:#f5f5f5;">🔧 Backend Skills</h4>
         <ul style="color:#ccc;">
             <li>Building REST APIs with Express.js</li>
@@ -59,7 +59,7 @@
             <li>Integration with SQL and NoSQL databases</li>
         </ul>
     </div>
-    <div style="border:1px solid #666;padding:10px;border-radius:5px;">
+    <div style="padding:10px;">
         <p style="color:#ccc;">Working on form validation middleware and advanced API patterns.</p>
     </div>
 </td>
@@ -72,7 +72,7 @@
 
 ### 🗄️ DATABASE
 
-<div style="border:1px solid #777;border-radius:8px;padding:10px;background-color:#0d1117;">
+<div style="padding:10px;background-color:#0d1117;">
 
 <table>
 <tr>
@@ -81,7 +81,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50px" alt="MongoDB"/>
 </td>
 <td>
-    <div style="border:1px solid #666;padding:10px;margin-bottom:10px;border-radius:5px;">
+    <div style="padding:10px;margin-bottom:10px;">
         <h4 style="color:#f5f5f5;">💾 Database Skills</h4>
         <ul style="color:#ccc;">
             <li>Relational data modeling using MySQL</li>
@@ -89,7 +89,7 @@
             <li>Working with MongoDB for flexible data storage</li>
         </ul>
     </div>
-    <div style="border:1px solid #666;padding:10px;border-radius:5px;">
+    <div style="padding:10px;">
         <p style="color:#ccc;">Exploring database optimization and query performance tuning.</p>
     </div>
 </td>
