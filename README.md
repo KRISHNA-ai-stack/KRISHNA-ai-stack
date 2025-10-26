@@ -1,6 +1,7 @@
-<h1 align="center" style="color:#fff;">🖤 KrxnTech</h1>
+<h1 align="center" style="color:#fff;">🖤 KrxnTech 🤍</h1>
 
 <p align="center">
+    <p>Hey ✌️ I am Krxna</p>
     <img src="https://img.shields.io/badge/Frontend-%E2%9A%97-pink" />
     <img src="https://img.shields.io/badge/Backend-%E2%9A%97-green" />
     <img src="https://img.shields.io/badge/Database-%E2%9D%A4-lightblue" />
