@@ -2,9 +2,9 @@
 
 <p>Hey ✌️ I am <b>Krxna</b></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Frontend-%E2%9A%97-pink" />
-    <img src="https://img.shields.io/badge/Backend-%E2%9A%97-green" />
-    <img src="https://img.shields.io/badge/Database-%E2%9D%A4-lightblue" />
+    <img src="https://img.shields.io/badge/Frontend-🌸-ffb3ba" />
+    <img src="https://img.shields.io/badge/Backend-🌿-baffc9" />
+    <img src="https://img.shields.io/badge/Database-💎-bae1ff" />
 </p>
 
 ---
