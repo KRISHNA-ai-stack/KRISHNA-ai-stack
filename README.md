@@ -93,8 +93,8 @@
 
 <p align="center" style="color:#ccc;">
     <b>🎯 Goal : )  </b> Create scalable fast and elegant web applications️  
-    I am Getting Expert Day by Day and i m Improving my self Day bu Day ✌  
-     I want to be a good Software Developer  
+    I am Getting Expert Day by Day and i m Improving my self Day by Day ✌ &
+    a good Software Developer is my Dream : (   
     I am not learning DSA now i am focused on Development
 </p>
 
