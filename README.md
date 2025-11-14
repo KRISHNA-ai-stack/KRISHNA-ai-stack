@@ -92,7 +92,10 @@
 ---
 
 <p align="center" style="color:#ccc;">
-    <b>🎯 Goal : )  </b> Create scalable fast and elegant web applications
+    <b>🎯 Goal : )  </b> Create scalable fast and elegant web applications  
+    I am Getting Expert Day by Day and i m Improving my self Day bu Day ✌️
+    I want to be a good Software Developer ! 
+    I am not learning DSA now i am focused on Development 
 </p>
 
 ---
