@@ -1,101 +1,68 @@
-<h1 align="center" style="color:#fff;">🖤 KrxnTech 🤍</h1>
+## Hey, Krishna here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<p>Hey ✌️ I am <b>Krxna</b></p>
-<p align="center">
-    <img src="https://img.shields.io/badge/Frontend-⚡-ff0099?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Backend-🧠-00ffaa?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Database-💾-00bfff?style=for-the-badge&logoColor=white" />
-</p>
- 
----
+<h1>Welcome to my space on the internet.</h1>
 
-### FRONTEND
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" alt="Matrix Code" align="right"/>
 
-<div style="padding:10px;background-color:#161b22;">
+[![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
+[![Gmail Badge](https://img.shields.io/badge/-krishna-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:yourmail@gmail.com)
 
-<table>
-<tr>
-<td width="150" align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50px" alt="HTML5"/><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50px" alt="CSS3"/><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript"/>
-</td>
-<td>
-    <div style="padding:10px;margin-bottom:10px;">
-        <h4 style="color:#f5f5f5;">🩷 Frontend Skills</h4>
-        <ul style="color:#ccc;">
-            <li>Responsive UI using <b>HTML5</b> <b>CSS3</b> <b>Animation</b> Library and CSS3 Flexbox and Grid</li>
-            <li>Interactive design using Vanilla <b></b>JavaScript</li>
-            <li>DOM manipulation and smooth animations</li>
-        </ul>
-    </div>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### BACKEND
-
-<div style="padding:10px;background-color:#0d1117;">
-
-<table>
-<tr>
-<td width="150" align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50px" alt="Node.js"/><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50px" alt="Express"/>
-</td>
-<td>
-    <div style="padding:10px;margin-bottom:10px;">
-        <h4 style="color:#f5f5f5;">🔴 Backend Skills</h4>
-        <ul style="color:#ccc;">
-            <li>Building <b>REST APIs</b> with <b>Express.JS</b></li>
-            <li>Authentication routing and error handling</li>
-            <li>Integration with <b>SQL</b> and <b>NoSQL</b> databases</li>
-        </ul>
-    </div>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### DATABASE
-
-<div style="padding:10px;background-color:#0d1117;">
-
-<table>
-<tr>
-<td width="150" align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50px" alt="MySQL"/><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50px" alt="MongoDB"/>
-</td>
-<td>
-    <div style="padding:10px;margin-bottom:10px;">
-        <h4 style="color:#f5f5f5;">🟢 Database Skills</h4>
-        <ul style="color:#ccc;">
-            <li>Relational data modeling using MySQL</li>
-            <li>CRUD operations and schema design</li>
-            <li>Working with <b>MongoDB</b> for flexible data storage</li>
-        </ul>
-    </div>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<p align="center" style="color:#ccc;">
-    <b>🎯 Goal : )  </b> Create scalable fast and elegant web applications️  
-    I am Getting Expert Day by Day and i m Improving my self Day by Day ✌ &
-    a good Software Developer is my Dream : (   
-    I am not learning DSA now i am focused on Development
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=krishna" alt="Profile Views" />
 </p>
 
+<div style="text-align: right">
+Coding feels illegal sometimes.
+</div>
+
 ---
+
+## ⚡ Technologies I Love
+* Full Stack Web Development  
+* Backend Engineering  
+* API Development  
+* UI/UX & Clean Interfaces  
+* Problem Solving & Hackathon Projects  
+
+---
+
+## 🛠️ Programming Languages
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30'/>  
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+
+---
+
+## 🧰 Technologies & Tools I Use
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='33'/>  
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='33'/>  
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' width='40'/>
+
+* **Node.js + Express.js (Backend)**
+* **MySQL & SQL (Database)**
+* **Figma & Canva (Design Work)**
+
+---
+
+## 👨‍💻 Who am I?
+```python
+class WhoAmI:
+    user = "Krishna"
+    role = "Developer | Problem Solver"
+    current_work = "Building Full Stack Projects"
+
+    hobbies = [
+        "Coding random ideas",
+        "Designing UI in Figma",
+        "Learning new tech",
+        "Participating in hackathons"
+    ]
+
+    def goal():
+        return "Become a solid Full Stack Engineer"
