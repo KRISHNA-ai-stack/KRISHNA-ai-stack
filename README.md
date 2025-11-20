@@ -27,19 +27,19 @@ Coding feels illegal sometimes.
 ---
 
 ## 🛠️ Programming Languages
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30'/>  
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>  
 
 ---
 
 ## 🧰 Technologies & Tools I Use
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='33'/>  
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='33'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  
 
 * **Node.js + Express.js (Backend)**
