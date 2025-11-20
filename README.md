@@ -27,7 +27,13 @@ Coding feels illegal sometimes.
 ---
 
 ## 🛠️ Programming Languages  
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> &nbsp;&nbsp;
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+
 
 
 ---
