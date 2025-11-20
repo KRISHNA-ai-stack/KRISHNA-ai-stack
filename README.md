@@ -41,8 +41,6 @@ Coding feels illegal sometimes.
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='33'/>  
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='33'/>  
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' width='40'/>
 
 * **Node.js + Express.js (Backend)**
 * **MySQL & SQL (Database)**
