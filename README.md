@@ -33,10 +33,11 @@ Coding feels illegal sometimes.
 ---
 
 ## 🧰 Technologies & Tools I Use
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='33'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> &nbsp;&nbsp; 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='33'/> &nbsp;&nbsp; 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> &nbsp;&nbsp; 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
+ 
 
 * **Node.js + Express.js (Backend)**
 * **MySQL & SQL (Database)**
