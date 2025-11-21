@@ -1,4 +1,3 @@
-Portfolio - 🌟 https://roaring-gaufre-6cfe46.netlify.app/
 
 * Full Stack Web Development  
 * Backend Engineering  
