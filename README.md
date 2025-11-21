@@ -22,8 +22,8 @@
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> &nbsp;&nbsp; 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
  
-
-* **Node.js + Express.js (Backend)**
+* **React + Tailwind (Frontend)**
+* **Node + Express (Backend)**
 * **MySQL & SQL (Database)**
 * **Figma & Canva (Design Work)**
 
