@@ -1,6 +1,3 @@
-## Hey Krishna here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-
-<h1>Welcome to my space on the internet</h1>
 
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" alt="Matrix Code" align="right"/>
 
@@ -17,7 +14,6 @@ Coding feels illegal sometimes.
 
 ---
 
-## My Fav Tech 💗
 * Full Stack Web Development  
 * Backend Engineering  
 * API Development  
@@ -26,7 +22,6 @@ Coding feels illegal sometimes.
 
 ---
 
-## Programming Language which i know ✌️ 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> &nbsp;&nbsp;
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30'/> &nbsp;&nbsp;
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> &nbsp;&nbsp;
@@ -38,7 +33,6 @@ Coding feels illegal sometimes.
 
 ---
 
-## Tools I Use For Coding : ) 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> &nbsp;&nbsp; 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='33'/> &nbsp;&nbsp; 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> &nbsp;&nbsp; 
@@ -51,7 +45,6 @@ Coding feels illegal sometimes.
 
 ---
 
-## 👨‍💻 Who am I 😋
 ```python
 class WhoAmI:
     user = "Krishna"
