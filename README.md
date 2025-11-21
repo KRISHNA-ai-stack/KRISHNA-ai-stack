@@ -1,5 +1,4 @@
 
----
 
 * Full Stack Web Development  
 * Backend Engineering  
@@ -7,7 +6,6 @@
 * UI/UX & Clean Interfaces  
 * Problem Solving & Hackathon Projects  
 
----
 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> &nbsp;&nbsp;
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30'/> &nbsp;&nbsp;
@@ -18,7 +16,6 @@
 
 
 
----
 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> &nbsp;&nbsp; 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='33'/> &nbsp;&nbsp; 
@@ -30,7 +27,6 @@
 * **MySQL & SQL (Database)**
 * **Figma & Canva (Design Work)**
 
----
 
 ```python
 class WhoAmI:
