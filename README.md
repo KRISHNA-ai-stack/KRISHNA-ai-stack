@@ -1,6 +1,4 @@
 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" alt="Matrix Code" align="right"/>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
 [![Gmail Badge](https://img.shields.io/badge/-krishna-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:yourmail@gmail.com)
 
