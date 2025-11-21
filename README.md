@@ -17,7 +17,7 @@ Coding feels illegal sometimes.
 
 ---
 
-## ⚡ Technologies I Love
+## My Fav Tech 💗
 * Full Stack Web Development  
 * Backend Engineering  
 * API Development  
@@ -26,7 +26,7 @@ Coding feels illegal sometimes.
 
 ---
 
-## 🛠️ Programming Languages  
+## Programming Language which i know ✌️ 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> &nbsp;&nbsp;
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30'/> &nbsp;&nbsp;
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> &nbsp;&nbsp;
@@ -38,7 +38,7 @@ Coding feels illegal sometimes.
 
 ---
 
-## 🧰 Technologies & Tools I Use
+## Tools I Use For Coding : ) 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> &nbsp;&nbsp; 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='33'/> &nbsp;&nbsp; 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/> &nbsp;&nbsp; 
@@ -51,7 +51,7 @@ Coding feels illegal sometimes.
 
 ---
 
-## 👨‍💻 Who am I?
+## 👨‍💻 Who am I 😋
 ```python
 class WhoAmI:
     user = "Krishna"
