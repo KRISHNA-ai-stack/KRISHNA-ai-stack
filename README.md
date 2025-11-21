@@ -1,6 +1,6 @@
 ## Hey Krishna here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my space on the internet.</h1>
+<h1>Welcome to my space on the internet</h1>
 
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" alt="Matrix Code" align="right"/>
 
