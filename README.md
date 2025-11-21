@@ -1,15 +1,4 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
-[![Gmail Badge](https://img.shields.io/badge/-krishna-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:yourmail@gmail.com)
-
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=krishna" alt="Profile Views" />
-</p>
-
-<div style="text-align: right">
-Coding feels illegal sometimes.
-</div>
-
 ---
 
 * Full Stack Web Development  
